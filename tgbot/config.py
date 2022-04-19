@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 
 from environs import Env
-
+# a comment for commit
 
 @dataclass
 class DbConfig:
